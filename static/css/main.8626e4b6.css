@@ -1,0 +1,85 @@
+/*PROXIMA NOVA*/
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../../877eb8c434bd4b4bc66a.woff) format("woff"),
+    url(../../10c5e7a748e0e950b505.woff2) format("woff2"),;
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../../467078210d71eac064bf.woff) format("woff"),
+    url(../../234b00543312f46d952f.woff2) format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../../875d20ff25ec6df37146.woff) format("woff"),
+    url(../../d57d6270a5d813781e83.woff2) format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../../f95ff636d51242542487.woff2) format("woff2"),
+    url(../../edac7d70fef93958c467.woff) format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../../7af8a16c9eccc61a3ed9.woff2) format("woff2"),
+    url(../../d83007db167833de7085.woff) format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../../51b53541d446b4c6225e.woff2) format("woff2"),
+    url(../../5ac6d4b9edc281e2e7f5.woff) format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../../3f37ff6d693ca77d64c7.woff2) format("woff2"),
+    url(../../c5e7f10d8f8665f0e56a.woff) format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../../d265afa07bd3f2788eb3.woff2) format("woff2"),
+    url(../../f945f294f3490d17ffeb.woff) format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proxima Nova";
+  src: url(../../a9c17abb3f0643711c32.woff2) format("woff2"),
+    url(../../bb3c2d61527fe58cd9c7.woff) format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+
+/*# sourceMappingURL=main.8626e4b6.css.map*/

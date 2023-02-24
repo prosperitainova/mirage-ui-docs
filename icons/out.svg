@@ -1,0 +1,14 @@
+<svg id="meeting_room_black_24dp" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Grupo_380" data-name="Grupo 380">
+    <g id="Grupo_379" data-name="Grupo 379">
+      <path id="Caminho_212" data-name="Caminho 212" d="M0,0H32V32H0Z" fill="none"/>
+    </g>
+  </g>
+  <g id="Grupo_383" data-name="Grupo 383" transform="translate(3 3)">
+    <g id="Grupo_382" data-name="Grupo 382">
+      <g id="Grupo_381" data-name="Grupo 381">
+        <path id="Caminho_213" data-name="Caminho 213" d="M27.556,26.111H26.111V5.889a1.449,1.449,0,0,0-1.444-1.444H18.889A1.449,1.449,0,0,0,17.444,3H7.333A1.449,1.449,0,0,0,5.889,4.444V26.111H4.444a1.444,1.444,0,1,0,0,2.889h13a1.449,1.449,0,0,0,1.444-1.444V7.333h4.333V27.556A1.449,1.449,0,0,0,24.667,29h2.889a1.444,1.444,0,0,0,0-2.889Zm-13-8.667h0A1.449,1.449,0,0,1,13.111,16h0a1.449,1.449,0,0,1,1.444-1.444h0A1.449,1.449,0,0,1,16,16h0A1.449,1.449,0,0,1,14.556,17.444Z" transform="translate(-3 -3)" fill="#ccdfef"/>
+      </g>
+    </g>
+  </g>
+</svg>
